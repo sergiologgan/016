@@ -1,0 +1,56 @@
+{
+  "demandasFormais": [
+      {
+          "formularioAcaoRenovatoria": null,
+          "dataEhoraInclusao": "2023-06-20 17:57:47",
+          "dataEhoraAceite": null,
+          "dataEhoraConclusao": null,
+          "responsavelDaDemanda": "C112969 - FELIPE BLANCO SAVOIA",
+          "fasesDemandaFormal": [],
+          "nomeFilial": "CEFOR",
+          "cpfCnpjFornecedor": "00.360.305/0001-04",
+          "dataPedidoRevisao": null,
+          "formularioProrrogacao": {
+              "id": 480784,
+              "dataVigenciaInicio": "2023-09-29",
+              "dataVigenciaFim": "2024-09-28",
+              "valorProrrogacao": 0.01,
+              "avaliacaoDesempenhoContratada": "INFORMAMOS QUE, ATÉ O MOMENTO, A SOCIEDADE CREDENCIADA VEM EXECUTANDO DE MANEIRA EFICIENTE E SATISFATÓRIA OS SERVIÇOS CONTRATADOS.",
+              "compatibilidadePrecos": "NÃO SE APLICA. OS VALORES SÃO DEFINIDOS ATRAVÉS DA TABELA DE REMUNERAÇÃO CONTIDA NO AE108.",
+              "justificativas": "A PRORROGAÇÃO CONTRATUAL DESSAS SOCIEDADES JUSTIFICA-SE PELA IMPOSSIBILIDADE DA DESCONTINUIDADE DOS SERVIÇOS TÉCNICO-PROFISSIONAIS QUE JÁ VEM SENDO PRESTADOS, ESPECIALMENTE NO QUE DIZ RESPEITO AO ATENDIMENTO DOS PRAZOS JUDICIAIS IMPOSTOS À CAIXA, SEM PREJUÍZO AO ANDAMENTO PROCESSUAL, EM RAZÃO DAS MILHARES DE AÇÕES EM QUE FIGURA A CAIXA NOS POLOS ATIVO E PASSIVO, EM TRÂMITE EM TODAS AS INSTÂNCIAS.",
+              "outrasInformacoesJulgadasPertinentes": "TENDO OCORRIDO A MIGRAÇÃO DOS PAGAMENTOS PARA O SISTEMA SAP GUI, NÃO HÁ MAIS COMPROMISSO NO SIPLO.",
+              "descricaoObjeto": "CONTRATAÇÃO DE SOCIEDADE DE ADVOGADOS PARA PRESTAÇÃO DE SERVIÇOS JURÍDICOS. - CAMARA, VIEIRA E RASLAN SOCIEDADE DE ADVOGADOS"
+          },
+          "penalidade": null,
+          "dataAssinaturaDemanda": "2022-09-29",
+          "datainicioDemanda": "2022-09-29",
+          "datafimDemanda": "2023-09-28",
+          "valorGlobal": null,
+          "valorDoAto": 0.01,
+          "idArquivoAditivo": null,
+          "codigoFilial": "5625",
+          "protocolo": 52891,
+          "situacao": "EM ANÁLISE",
+          "equipeRemota": "CEFOR01_AÇÕES TRABALHISTAS_CREDENCIAMENTO",
+          "modalidade": "CREDENCIAMENTO",
+          "nomeFornecedor": "CÂMARA, VIEIRA E RASLAN SOCIEDADE DE ADVOGADOS",
+          "gestorOperacional": "JURIR/PO",
+          "instrumentoContratual": "6259/2022",
+          "tipo": "PRORROGAÇÃO DE VIGÊNCIA",
+          "id": 480784
+      }
+  ],
+  "filter": {
+      "codigoFilial": null,
+      "protocolo": "52891",
+      "situacao": null,
+      "equipeRemota": null,
+      "modalidade": null,
+      "pages": 4820,
+      "size": 100,
+      "total": 482076,
+      "page": 0,
+      "instrumentoContratual": null,
+      "tipo": null
+  }
+}

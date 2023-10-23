@@ -1,0 +1,145 @@
+{
+  "contrato": {
+      "instrumentoId": 126110,
+      "versaoInstrumentoId": 422989,
+      "id": 432452,
+      "numero": 6259,
+      "ano": 2022,
+      "situacao": "EM_VIGOR",
+      "tipo": "CREDENCIAMENTO",
+      "excluido": "NAO",
+      "nomeFornecedor": "CÂMARA, VIEIRA E RASLAN SOCIEDADE DE ADVOGADOS",
+      "cpfFornecedor": null,
+      "cnpjFornecedor": "05.608.122/0001-89",
+      "valorOriginal": 0.01,
+      "valorVigencia": 0.01,
+      "valorEstimado": 0.01,
+      "valorContratado": 0.01,
+      "valorGlobalAditivado": null,
+      "valorGasto": 0,
+      "inicioVigencia": "2022-09-29",
+      "fimVigencia": "2023-09-28",
+      "inicioAditivo": null,
+      "fimAditivo": null,
+      "servicoContinuo": "NAO",
+      "ataRegistrodePrecos": "NÃO",
+      "nomeFilial": "CEFOR",
+      "tipoPenalidade": null,
+      "descricaoObjeto": "CONTRATAÇÃO DE SOCIEDADE DE ADVOGADOS PARA PRESTAÇÃO DE SERVIÇOS JURÍDICOS. - CAMARA, VIEIRA E RASLAN SOCIEDADE DE ADVOGADOS",
+      "dataAssinatura": "2022-09-29",
+      "prorrogavel": "SIM",
+      "matriculaUsuarioResponsavel": "C078352",
+      "nomeUsuarioResponsavel": "FERNANDA REGINA LINS DE ALMEIDA",
+      "cgcFilial": "5625",
+      "fornecedorId": 1313,
+      "garantias": null,
+      "anexos": null,
+      "nomeEquipeRemota": "CEFOR01_AÇÕES TRABALHISTAS_CREDENCIAMENTO",
+      "matriculaSignatarioCaixa": "C046310",
+      "nomeSignatarioCaixa": "ROGERIO GORDILHO TAVARES",
+      "nomeSignatarioFornecedor": "GIOVANNI CAMARA DE MORAIS",
+      "maoDeObraDedicada": "NAO",
+      "alocacaoProfissionaisAmbienteCaixa": "NAO",
+      "contingenciamentoVerbasTrabalhistas": "NAO",
+      "regiao": "5625 - CEFOR",
+      "modalidade": "CREDENCIAMENTO",
+      "anoLicitacao": null,
+      "clausulaMultaJuros": "SIM",
+      "clausulasContratuaisDescumpridas": null,
+      "descricaoResumidaFatos": null,
+      "outrasInformacoesPertinentes": null,
+      "numeroDoProtocolo": null,
+      "situacaoPenalidade": "CONCLUIDA",
+      "processo": 1153,
+      "licitacao": "CREDENCIAMENTO",
+      "anoProcesso": 2022,
+      "dispositivoLegal": "LEI Nº 13.303/16, ART. 29",
+      "aditivos": null,
+      "penalidades": null,
+      "gestoresOperacionais": [
+          {
+              "cgcGestorOperacional": "7420",
+              "id": 149827,
+              "nomeGestorOperacional": "JURIR/PO",
+              "principal": "SIM",
+              "ufGestorOperacional": "RS"
+          }
+      ],
+      "preComprometimentoSAP": null,
+      "numeroLicitacao": null,
+      "itens": null,
+      "compromissos": null,
+      "cpfSignatarioCaixa": "36230812568",
+      "cpfSignatarioFornecedor": "03417696658"
+  },
+  "compromissos": [
+      {
+          "id": 45400,
+          "numeroCompromisso": "0000002022XX",
+          "parcelasAutorizadas": 0,
+          "parcelasEmpenhadas": 0,
+          "parcelasIncluidas": 0,
+          "parcelasPagas": 0
+      }
+  ],
+  "garantias": [
+      {
+          "cnpjSeguradora": null,
+          "codigoAgencia": null,
+          "codigoBanco": null,
+          "codigoConta": null,
+          "codigoOperacao": null,
+          "dataFinalGarantia": null,
+          "dataInicialGarantia": null,
+          "dv": null,
+          "emailSeguradora": null,
+          "id": 67556,
+          "justificativa": ".",
+          "nomeSeguradora": null,
+          "numeroApolice": null,
+          "tipoGarantia": "SEM GARANTIA",
+          "valorGarantia": null
+      }
+  ],
+  "anexos": [
+      {
+          "dataInclusao": "2022-08-19",
+          "id": 1062018,
+          "nomeArquivo": "Pesquisas",
+          "tipoArquivo": "REGULARIDADE DO FORNECEDOR"
+      },
+      {
+          "dataInclusao": "2022-08-25",
+          "id": 1064834,
+          "nomeArquivo": "CTR 06259/2022",
+          "tipoArquivo": "CONTRATO"
+      },
+      {
+          "dataInclusao": "2022-09-05",
+          "id": 1069942,
+          "nomeArquivo": "DOU",
+          "tipoArquivo": "PUBLICAÇÕES"
+      }
+  ],
+  "itens": [
+      {
+          "id": 677603,
+          "item": "ADVOGADO",
+          "itemContrato": 1,
+          "quantidade": 1.0,
+          "valorItem": 0.01,
+          "valorUnitario": 0.01
+      }
+  ],
+  "aditivos": [],
+  "penalidades": [],
+  "gestoresOperacionais": [
+      {
+          "cgcGestorOperacional": "7420",
+          "id": 149827,
+          "nomeGestorOperacional": "JURIR/PO",
+          "principal": "SIM",
+          "ufGestorOperacional": "RS"
+      }
+  ]
+}
